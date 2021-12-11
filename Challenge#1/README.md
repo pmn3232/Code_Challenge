@@ -1,4 +1,4 @@
-# 3tier_terraform
+# 3-tier Web Application using Terraform
 Creating a 3-Tier Architecture on AWS via Terraform
 
 
